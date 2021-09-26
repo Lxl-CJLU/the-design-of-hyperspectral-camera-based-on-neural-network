@@ -2,7 +2,6 @@
 最终版：
 
 研究方向1：一、修正lm和w的错误，213ICVL图重建数据集（图片带名字）.ipynb
-研究方向1：二、CCDQE三次样条插值.ipynb  （给所用QE插值到31通道）
 研究方向1：三、将DN反推W-纯ICVL.ipynb
 研究方向1：七、CCD+n块BESD-Fs-纯ICVL-考虑峰谷数目修改NET和loss-loss修改函数和系数.ipynb （光谱平缓）
 研究方向1：九、不同方案重构效果比较-onlyICVL-考虑峰谷数目修改NET和loss-loss修改函数和系数-修改图像展示  （增强误差图对比度）
