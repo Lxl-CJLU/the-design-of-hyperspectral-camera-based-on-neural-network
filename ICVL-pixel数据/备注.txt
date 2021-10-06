@@ -1,3 +1,0 @@
-这里需要放置打包成mat格式的pixel光谱数据
-
-no_selected_pixel_W_onlyICVL.mat是仅用ICVL
